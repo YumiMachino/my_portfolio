@@ -10961,6 +10961,9 @@ section.resume-section .resume-section-content {
   section.resume-section {
     min-height: 100vh;
   }
+  .project {
+    width: 50%;
+  }
 }
 @media (min-width: 992px) {
   section.resume-section {
@@ -10969,4 +10972,7 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+.project {
+  width: 100%;
 }

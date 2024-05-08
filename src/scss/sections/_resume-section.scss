@@ -20,6 +20,10 @@ section.resume-section {
     section.resume-section {
         min-height: 100vh;
     }
+
+    .project {
+        width: 50%;
+    }
 }
 
 @include media-breakpoint-up(lg) {
@@ -29,4 +33,9 @@ section.resume-section {
         padding-top: 5rem;
         padding-bottom: 5rem;
     }
+}
+
+
+.project {
+    width: 100%;
 }
