@@ -1,6 +1,6 @@
 {
-    "title": "Resume",
-    "name": "startbootstrap-resume",
+    "title": "Yumi Machino Portfolio",
+    "name": "Yumi Machino",
     "version": "7.0.6",
     "scripts": {
         "build_orginal": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -13,7 +13,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Portfolio cutomized with use of template build by Bootstrap 4.(https://startbootstrap.com/theme/resume)",
     "keywords": [
         "css",
         "sass",
@@ -22,20 +22,8 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/theme/resume",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (https://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-resume.git"
-    },
+    "author": "Yumi Machino",
     "dependencies": {
         "bootstrap": "5.2.3"
     },
