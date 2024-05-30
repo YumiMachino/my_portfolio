@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Resume v7.0.6 (https://startbootstrap.com/theme/resume)
-* Copyright 2013-2024 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE)
+* Start Bootstrap - Yumi Machino Portfolio v7.0.6 (undefined)
+* Copyright 2013-2024 Yumi Machino
+* Licensed under MIT (https://github.com/StartBootstrap/Yumi Machino/blob/master/LICENSE)
 */
 //
 // Scripts
