@@ -4,6 +4,6 @@ Personal Portfolio Website built using a [Resume](https://startbootstrap.com/the
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+![Portfolio Preview](https://machinoyumi.tech/assets/img/portfolio_preview.png)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live](https://machinoyumi.tech/)**
